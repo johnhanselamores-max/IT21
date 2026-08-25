@@ -6,6 +6,10 @@ package it21adoña;
 
 import java.util.Scanner;
 
+import java.util.Scanner;
+
+import java.util.Scanner;
+
 /**
  *
  * @author Admin
@@ -17,16 +21,7 @@ public class It21aDOÑA {
      */
     public static void main(String[] args){
 
-        Scanner scanner = new Scanner (System.in);
-
-        System.out.print("Enter a number": );
-        int number = scanner.nextInt();
-
-        if(number >= 87){
-            System.out.print("Highest number!");
-        } else {
-            System.out.print("Not the highest number")
-        }
+        Scanner scanner = 
 
     }
         
